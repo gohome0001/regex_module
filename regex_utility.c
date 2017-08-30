@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     
     free(p_src_str);
     free(p_regex);
-    regfree(&regex_pattern)
+    regfree(&regex_pattern);
 
     return 0;
 }
