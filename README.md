@@ -1,6 +1,6 @@
 # regex_module
 
-modified at 2017.08.29
+modified at 2017.10.18
 - POSIX C REGEX processor
 - simple regular expression processor
 - made for study
