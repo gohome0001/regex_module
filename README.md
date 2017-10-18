@@ -6,7 +6,8 @@ modified at 2017.08.29
 - made for study
 
 # how to use
-
+    
+    gcc -o regex.c regex
     ./name source_str regex
 
 - source_str : string to process
