@@ -4,6 +4,7 @@ modified at 2017.10.18
 - POSIX C REGEX processor
 - simple regular expression processor
 - made for study
+- so simple..
 
 # how to use
     
